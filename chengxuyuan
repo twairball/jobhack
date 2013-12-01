@@ -1,0 +1,1355 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上海程序员招聘|上海招聘程序员- 上海58同城</title>
+<meta name="description" content="58同城上海上海招聘频道，每天免费为求职者提供上万条最新 上海程序员招聘、上海招聘程序员职位信息，同时为企业提供免费发布 上海程序员招聘、上海招聘程序员职位信息平台。" />
+<meta name="keywords" content="上海程序员招聘,上海招聘程序员" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.58.com/sh/chengxuyuan">
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.58.com/sh/chengxuyuan">
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.58.com/sh/chengxuyuan">
+<link type="text/css" href="http://static.58.com/ui7/job/hire/job-list.css?v=20130822" rel="stylesheet" />
+<script src="http://pic2.58.com/js/5_1/jquery1.4.4.js"></script>
+<script type="text/javascript">
+try{var ____json4fe = {"catentry":[{"dispid":"9224","name":"全职招聘","listname":"job"},{"dispid":"13909","name":"计算机/互联网/通信","listname":"tech"},{"dispid":"23542","name":"程序员","listname":"chengxuyuan"}],"locallist":[{"dispid":"2","name":"上海","listname":"sh"}],"start":(new Date()).getTime(),"modules":"list"};____json4fe.version = 'A';____json4fe.modules = 'listpage';____json4fe.smsc = 'ce882233f1f0d86e154d1affe00c5eb5ac94f275669a356d59c0ed9aab2ee8b17a1cef99041d4971ed226cfa1aa8d3eb9674b1d57732f5f5a79a35977fa2401348f03c66311883dac5a2df2f6fd411101b9312d8d6547d04f0c186033f1dd8431bbe343172264eb4089b49e45845c76ed4a863617b5106a378233b0e48eaea2b'; }catch(e){};
+</script>
+</head>
+<body class="wbp-job-list">
+<div id="topbar"></div>
+<div class="wb-head" id="header">
+<div class="wb-header">
+<div class="logo">
+<a href="http://www.58.com/">
+<img src="http://pic2.58.com/ui7/job/hire/logo-49h.gif" alt="中文最大生活信息门户">
+</a>
+</div>
+<span id="crumbs" class="crumbs">
+<a href="/">上海58同城</a>
+&gt;
+<a href='/job.shtml'>上海招聘</a>
+&gt;
+<a href='/tech/'>上海计算机/互联网/通信招聘</a>
+&gt;
+<a href='/chengxuyuan/'>
+<h1 style="display: inline; font-weight: normal;">上海程序员招聘</h1>
+</a>
+</span>
+<div id="searchbar" class="searchbar fl">
+<div class="xiala w1" style="margin-right:0;display:none;">
+<span data-type="cate" data-value="chengxuyuan" class="searchselect"></span>
+<span class="text">
+<span data-type="queryName" data-value="key" class="searchselect">全文搜索</span>
+</span>
+<div class="selecttext hc">
+<a href="javascript:void(0);" data-value='key' data-msg='职位名称或公司名称'>全文搜索</a>
+<a href="javascript:void(0);" data-value='gongsimingcheng'>公司名称</a>
+</div>
+<div class="ln hc"></div>
+</div>
+<form onsubmit="b_query();return false;">
+<!-- <div class="keybox_top"></div>
+-->
+<span id="key" class="searchInput">
+<input id="keywordtop" class="keyword" para="key" name="b_q" value="请输入职位名称或公司名称" onblur="win.closeToolTipWindow();if(this.value==''){this.value='请输入职位名称或公司名称';this.className='keyword';}" onfocus="if(this.value=='请输入职位名称或公司名称')this.value='';this.className='keyword2';" onkeyup="win.GetContentData();" autocomplete="off" fdv="请输入职位名称或公司名称" data-fdv="true">
+</span>
+<a id="searchbtnSelf" class="sbtn" type="button" href="javascript:void(0);">搜本类</a>
+<a id="searchbtnAll" class="sbtn c70" type="button" href="javascript:void(0);" >搜全站</a>
+</form>
+</div>
+<div class="fabu fr">
+<a href="http://post.58.com/2/9224/j5" class="fabu_zp" target="_blank" onclick="javascript:_gaq.push(['pageTracker._trackEvent','zhaopin','click','/zhaopin/list/button/fabuzhaopin']);" rel="nofollow">发布招聘</a>
+<a href="http://jianli.58.com/resumebase/" target="_blank" onclick="javascript:_gaq.push(['pageTracker._trackEvent','zhaopin','click','/zhaopin/list/button/fabujianli']);" rel="nofollow">登记简历</a>
+</div>
+</div>
+</div>
+<div id="ad_d42"></div>
+<div id="filter" class="filter">
+<div class="nav">
+<div class="selTab">
+<a href="javascript:;" class="tabA">
+<span class="tabselect">上海程序员招聘<i></i></span>
+<div class="setbox" id="divJobCate" style="display:none"><!--选择职位类别弹出层-->
+<h3>选择职位类别
+</h3>
+<table class="jobcatebox" selectedid=9224,13909,23542>
+</table>
+</div></a>
+<a   href="/qzchengxuyuan/"  class="tabB"><span>上海程序员简历</span></a>
+</div>
+</div>
+<div class="sub-tag">
+<dl>
+<dt>职位：</dt>
+<dd>
+<ul class="seljobCate">
+ <li ><a  href="/tech/" >全部</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/jishuzongjian/">技术总监/经理</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/jishuzhichi/">技术支持/维护</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/jszhuanyuan/">技术专员/助理</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/ruanjiangong/">软件工程师</a></li>
+<li ><a class='select'   name='b_link' para='custom' cl='/tech/'
+href="http://sh.58.com/chengxuyuan/"><strong>程序员</strong></a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/yingjiangong/">硬件工程师</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/zhilianggongcheng/">质量工程师</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/yingjiancs/">测试员</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/xitongjichengfenxi/">系统架构师</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/shujukukaifa/">数据库管理/DBA</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/youxisheji/">游戏设计/开发</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangzhanmeigong/">网页设计/制作</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/cadsheji/">语音/视频/图形</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/xiangmuzongjian/">项目经理/主管</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangzhanchanpin/">产品经理/专员</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangzhanyunying/">网站运营</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangzhanyingyun/">网站编辑</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangzhancehua/">网站策划</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangluogongchengshi/">网络管理员</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/wangluoanquan/">网络与信息安全工程师</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/tongxinwuxian/">通信技术工程师</a></li>
+<li ><a   name='b_link' para='custom' cl=''
+href="http://sh.58.com/ruanjianshishi/">实施工程师</a></li>
+ </ul>
+</dd>
+</dl>
+<dl>
+<dt>区域：</dt>
+<dd>
+<ul class="seljobArea">
+<li><a href="/chengxuyuan/" class='select'><strong>全上海</strong></a></li>
+<li><a   href="/huangpu/chengxuyuan/">黄浦</a></li>
+<li><a   href="/luwan/chengxuyuan/">卢湾</a></li>
+<li><a   href="/jingan/chengxuyuan/">静安</a></li>
+<li><a   href="/xuhui/chengxuyuan/">徐汇</a></li>
+<li><a   href="/pudongxinqu/chengxuyuan/">浦东</a></li>
+<li><a   href="/changning/chengxuyuan/">长宁</a></li>
+<li><a   href="/hongkou/chengxuyuan/">虹口</a></li>
+<li><a   href="/yangpu/chengxuyuan/">杨浦</a></li>
+<li><a   href="/putuo/chengxuyuan/">普陀</a></li>
+<li><a   href="/zhabei/chengxuyuan/">闸北</a></li>
+<li><a   href="/minxing/chengxuyuan/">闵行</a></li>
+<li><a   href="/baoshan/chengxuyuan/">宝山</a></li>
+<li><a   href="/jiading/chengxuyuan/">嘉定</a></li>
+<li><a   href="/qingpu/chengxuyuan/">青浦</a></li>
+<li><a   href="/fengxiansh/chengxuyuan/">奉贤</a></li>
+<li><a   href="/nanhui/chengxuyuan/">南汇</a></li>
+<li><a   href="/chongming/chengxuyuan/">崇明</a></li>
+<li><a   href="/jinshan/chengxuyuan/">金山</a></li>
+<li><a   href="/songjiang/chengxuyuan/">松江</a></li>
+<li><a   href="/shanghaizhoubian/chengxuyuan/">上海周边</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+</div>
+<div class="masklayer" style="display:none"></div>
+<div class="main">
+<div class="conTop">
+<div class="tabsBar">
+<div class="subTab">
+<a href="http://sh.58.com/chengxuyuan/" target="_self" class="tabselect"   onClick="clickLog('from=mq_list_alljob&cate=9224,13909,23542&area=2');">所有职位</a>
+<a href="http://sh.58.com/chengxuyuan/?filter=free" target="_self" class="" rel="nofollow"   onClick="clickLog('from=mq_list_newjob&cate=9224,13909,23542&area=2');">最新职位</a>
+</div>
+<div id="bubbleTipImg" class="bubbleTip" style="display:none;">
+<a href="javascript:void(0);" class="closeIco" id="bubbleCloseIco"></a>
+</div>
+</div>
+<div class="welfare">
+<ul class="selWel">
+<li >
+<i></i>
+<a name='b_link' para='custom' cl='http://sh.58.com/chengxuyuan/?param6693=1'  clu='http://sh.58.com/chengxuyuan/?param6693=1' href="javascript:;" data-value='param6693=1' rel="nofollow">五险一金</a>
+</li>
+<li >
+<i></i>
+<a name='b_link' para='custom' cl='http://sh.58.com/chengxuyuan/?param6693=8'  clu='http://sh.58.com/chengxuyuan/?param6693=8' href="javascript:;" data-value='param6693=8' rel="nofollow">提供食宿</a>
+</li>
+<li >
+<i></i>
+<a name='b_link' para='custom' cl='http://sh.58.com/chengxuyuan/?param6693=9'  clu='http://sh.58.com/chengxuyuan/?param6693=9' href="javascript:;" data-value='param6693=9' rel="nofollow">年底双薪</a>
+</li>
+<li >
+<i></i>
+<a name='b_link' para='custom' cl='http://sh.58.com/chengxuyuan/?param6693=5'  clu='http://sh.58.com/chengxuyuan/?param6693=5' href="javascript:;" data-value='param6693=5' rel="nofollow">交通补助</a>
+</li>
+<li >
+<i></i>
+<a name='b_link' para='custom' cl='http://sh.58.com/chengxuyuan/?param6693=6'  clu='http://sh.58.com/chengxuyuan/?param6693=6' href="javascript:;" data-value='param6693=6' rel="nofollow">周末双休</a>
+</li>
+</ul>
+<div>	<!--当鼠标滑过选项时为div添加样式ihover，当选中时添加样式iselect-->
+<input type="checkbox" id="isonline" title="58帮帮客户端在线用户">
+<label for="isonline" title="58帮帮客户端在线用户">帮帮在线</label>
+</div>
+</div>
+<div class="selInfo">
+<div class="selmore fl">
+<div class="itemInfo hire_item">
+<div class="itemT">
+<span default="公司行业">公司行业</span>
+<b></b>
+</div>
+<div class="setbox" id="divIndCate" style="display:none"><!--选择行业类别弹出层-->
+<em></em>
+<ul class="indcatelist">
+<li class='select'><a  href="http://sh.58.com/chengxuyuan/pve_5358_0/" rel="nofollow">不限</a></li>
+</ul>
+</div>
+</div>
+<div class="itemInfo comp_item">
+<div class="itemT">
+<span default="公司性质">公司性质</span>
+<b></b>
+</div>
+<ul class="complist">
+<li class='ophover'><a  href="http://sh.58.com/chengxuyuan/pve_5358_0/" rel="nofollow">不限</a></li>
+</ul>
+</div>
+<div class="itemInfo ex_item">
+<div class="itemT">
+<span default="工作经验">工作经验</span>
+<b></b>
+</div>
+<ul class="exlist">
+<li class='ophover'><a class='select' href="http://sh.58.com/chengxuyuan/pve_5358_0/" rel="nofollow">不限</a></li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_4_pve_5358_0/"  vid='5357' v="4" rel="nofollow">1年以下</a>
+</li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_5_pve_5358_0/"  vid='5357' v="5" rel="nofollow">1-2年</a>
+</li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_6_pve_5358_0/"  vid='5357' v="6" rel="nofollow">3-5年</a>
+</li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_7_pve_5358_0/"  vid='5357' v="7" rel="nofollow">6-7年</a>
+</li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_8_pve_5358_0/"  vid='5357' v="8" rel="nofollow">8-10年</a>
+</li>
+<li >
+<a  name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5357_9_pve_5358_0/"  vid='5357' v="9" rel="nofollow">10年以上</a>
+</li>
+</ul>
+</div>
+<div class="itemInfo sala_item">
+<div class="itemT">
+<span default="薪资">薪资</span>
+<b></b>
+</div>
+<ul class="salalist">
+<li class='ophover'><a href="http://sh.58.com/chengxuyuan/" rel="nofollow">不限</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=0_999'  data-value='minxinzi=0_999' rel="nofollow">1000元以下</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=1000_1999'  data-value='minxinzi=1000_1999' rel="nofollow">1000-2000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=2000_2999'  data-value='minxinzi=2000_2999' rel="nofollow">2000-3000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=3000_4999'  data-value='minxinzi=3000_4999' rel="nofollow">3000-5000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=5000_7999'  data-value='minxinzi=5000_7999' rel="nofollow">5000-8000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=8000_11999'  data-value='minxinzi=8000_11999' rel="nofollow">8000-12000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=12000_19999'  data-value='minxinzi=12000_19999' rel="nofollow">12000-20000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=20000_24999'  data-value='minxinzi=20000_24999' rel="nofollow">20000-25000元</a></li>
+<li ><a href='http://sh.58.com/chengxuyuan/?minxinzi=25000_999999'  data-value='minxinzi=25000_999999' rel="nofollow">25000元以上</a></li>
+</ul>
+</div>
+<div class="itemInfo edu_item">
+<div class="itemT">
+<span default="学历">学历</span>
+<b></b>
+</div>
+<ul class="edulist">
+<li class='ophover'><a class='select' href="http://sh.58.com/chengxuyuan/pve_5358_0/" rel="nofollow">不限</a></li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_2_pve_5358_0/"  vid='5356' v="2" rel="nofollow">高中</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_3_pve_5358_0/"  vid='5356' v="3" rel="nofollow">技校</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_4_pve_5358_0/"  vid='5356' v="4" rel="nofollow">中专</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_5_pve_5358_0/"  vid='5356' v="5" rel="nofollow">大专</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_6_pve_5358_0/"  vid='5356' v="6" rel="nofollow">本科</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_7_pve_5358_0/"  vid='5356' v="7" rel="nofollow">硕士</a>
+</li>
+<li >
+<a name='b_link' para='custom' cl='' href="http://sh.58.com/chengxuyuan/pve_5356_8_pve_5358_0/"  vid='5356' v="8" rel="nofollow">博士</a>
+</li>
+</ul>
+</div>
+<div class="itemInfo reltime_item">
+<div class="itemT">
+<span default="发布时间">发布时间</span>
+<b></b>
+</div>
+<ul class="reltimelist">
+<li ><a href="http://sh.58.com/chengxuyuan/" rel="nofollow">不限</a></li>
+<li ><a   data-value='postdate=2013120100_2013120200'  href="javascript:;" rel="nofollow"  cv="1">当天</a></li>
+<li ><a  data-value='postdate=2013112900_2013120200'  href="javascript:;" rel="nofollow"  cv="3">3天内</a></li>
+<li ><a  data-value='postdate=2013112500_2013120200'  href="javascript:;" rel="nofollow"  cv="7">7天内</a></li>
+<li ><a  data-value='postdate=2013111700_2013120200'  href="javascript:;" rel="nofollow"  cv="15">15天内</a></li>
+<li ><a  data-value='postdate=2013110200_2013120200'  href="javascript:;" rel="nofollow"  cv="30">一月内</a></li>
+</ul>
+</div>
+</div>
+<div class="shaixuan fl">
+<input para="key1" name="b_q1" onblur="win1.closeToolTipWindow();if(this.value==''){this.value='关键词';this.className='keyword';}" id="keyword1" class="keyword" onfocus="if(this.value=='关键词')this.value='';this.className='keyword2';" onkeyup="win1.GetContentData();" value="关键词" autocomplete="off" fdv="关键词" data-fdv="true">
+<a href="javascript:;">筛选</a>
+<ul class="searlist" style="display:none"></ul>
+</div>
+<div class="itemInfo sort_item">
+<div class="itemT">
+<span>默认排序</span><b></b>
+</div>
+<ul class="orderlist">
+<li><a href="http://sh.58.com/chengxuyuan/">默认排序</a></li>
+<li id="freeest"><a href="http://sh.58.com/chengxuyuan/?sort=recruitmentrank_desc" rel="nofollow">竞争力排序</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+$('.tips-closed').click(function(){
+$('#mqtips').hide();
+});
+})
+</script><div class="leftbar">
+<div class="infolist">
+<div id="recomInfocon" class="maincon">
+</div>
+<div id="maincon" class="maincon">
+<div id="infolist" class="tablist">
+<div id="top_google_ad"></div>
+   <dl logr="j_2_5455738759686_15374037917185_3_2">
+<dd class="w46">
+<i infoid="15374037917185"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15374037917185x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PHP程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>188分</span></div><h2>上海湘谊贸易有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海松江</li><li><span>转正工资：</span>5000-8000元,一个月内转正</li><li class="nobor"><span>绩效奖金：</span>月度绩效，最高为岗位月工资的10%</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，8个地铁站，1家商场，1家餐馆，5家超市，2个小区</span></div></div><p><br />岗位要求<br />1、精通PHP+MYSQL开发，具有两年以上 PHP 编程经验；<br />2、具备电子商务网站及大型运营类网站独立开发经验<br />3、精通DIV+CSS布局设计、熟练掌握脚本语言、XHTML、HTML5，对HTML/CSS等网页设计前端的技术必须精通；<br />4、具有 SqlServer 索引优化、查询优化和存储优化经....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/5455738759686/' target='_blank' class='fl' title="上海湘谊贸易有限公司">上海湘谊贸易有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">松江</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_46893987_15781111043203_3_2">
+<dd class="w46">
+<i infoid="15781111043203"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15781111043203x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >ASP.NET程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>210分</span></div><h2>上海助跑网络科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海松江新桥</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>7个公交站，10个地铁站，3家商场，84家餐馆，12个ATM，2家超市，2个加油站，1个火车票代售点，15家银行，33个小区</span></div></div><p>1、1 年以上 B/S 开发工作经验，有丰富的Web项目的开发和实施，项目分析经验；<br />2、熟悉 ASP.NET，Web Service，熟悉.net framework3.5/4.0和三层架构；<br />3、熟悉javascript、Ajax、Css、Ajax、XML，DHTML等web开发领域相关技术，静态生成技术；<br />4、熟悉 SQLS....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/46893987/' target='_blank' class='fl' title="上海助跑网络科技有限公司">上海助跑网络科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">新桥</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_15119486469383_14997774692742_3_2">
+<dd class="w46">
+<i infoid="14997774692742"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14997774692742x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >小额消费信贷电销坐席</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>197分</span></div><h2>平安保险</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>50人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">年底双薪</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，18家餐馆，1个ATM，1家超市，3个加油站，5家银行，3个小区</span></div></div><p>1.全日制大专及以上学历，金融专业、有银行从业经历者或有电销工作经验者优先；特别优秀者可放宽至高中/中专。 2.普通话标准，语言表达能力及倾听能力强、思路清晰; 3.反应敏捷，沟通能力强； 4.熟悉电脑操作和中文打字； 5.具备较好的沟通能力和团队合作精神，能承受压力。 工作职责： 1.通过电话向客户提供专业的资金需求解决方案； 2.对客户进行长期维护沟通，帮....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/15119486469383/' target='_blank' class='fl' title="平安保险">平安保险</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_13355208291078_15225401581960_3_2">
+<dd class="w46">
+<i infoid="15225401581960"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15225401581960x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >高薪软件销售</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>197分</span></div><h2>上海业美信息技术有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>本科</li><li class="mar30"><span>工作地点：</span>上海浦东东昌站地铁站</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">1张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>3个公交站，1个地铁站，1家商场，2家餐馆，5个ATM，5家超市，3个加油站，6家银行，60个小区</span></div></div><p>岗位要求: 1、对公司软件的推广和销售。 2、完成销售工作、确保销售任务完成。 3、协助营销总监举办市场活动、培训活动等销售辅助工作。 4、负责用户对产品的回馈的收集。 5、有过做销售经历者优先。 任职资格： 1、中专以上学历，有客户接待和服务经验者优先； 网上与客户交流熟练。 2、普通话标准，口齿清楚，声音甜美，优秀的语言表达能力和沟通能力； 3、较强的应变....</p></div></div></span>
+<span class='tu' title=''>[1图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/13355208291078/' target='_blank' class='fl' title="上海业美信息技术有限公司">上海业美信息技术有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">东昌站地铁站</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_21312104_6622418438920_3_2">
+<dd class="w46">
+<i infoid="6622418438920"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/6622418438920x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PLC应用程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><h2>上海林频仪器股份有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>计算机/互联网/通信</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>中专</li><li class="mar30"><span>工作地点：</span>上海闵行马桥</li><li><span>转正工资：</span>3000-5000元</li></ul><p>职位说明：
+1.熟练使用西门子S7-200系列PLC及模拟量输入输出模块. 
+2.能使用S7-200PLC编写PID闭环控制程序:如温度PID控制,湿度PID控制,臭氧PID控制. 
+3.能根据新设备的控制要求编程. 
+4.熟悉威伦触摸屏（型号MT6056IV）能对其编程与S7-200PLC配套使用. 
+5.对西门子模块编程有相关工作经验.</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/21312104/' target='_blank' class='fl' title="上海林频仪器股份有限公司">上海林频仪器股份有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">马桥</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_5830945856774_13766401729413_3_2">
+<dd class="w46">
+<i infoid="13766401729413"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/13766401729413x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PHP程序开发工程师</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>196分</span></div><h2>上海邦泰医院投资管理有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>3-5年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>4个公交站，6个地铁站，2家商场，120家餐馆，9个ATM，1家超市，2个加油站，3个火车票代售点，18家银行，127个小区</span></div></div><p>岗位职责： <br />1、负责网站系统分析及需求分析 <br />2、负责网络的代码开发及维护工作 <br />3、配合企划、美工完成项目<br />任职资格： <br />1、大专及以上学历，一年以上相关工作经验，精通PHP +MySQL编程，3年以上php开发工作经验。 <br />2、熟悉JavaScript、HTML、XML，Smarty等模板引擎，....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/5830945856774/' target='_blank' class='fl' title="上海邦泰医院投资管理有限公司">上海邦泰医院投资管理有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_19324171239687_16090450720522_3_2">
+<dd class="w46">
+<i infoid="16090450720522"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/16090450720522x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >JAVA程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>176分</span></div><h2>上海达内为上软件科技有限公司浦东分公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>计算机/互联网/通信</li><li><span>招聘人数：</span>20人</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，5个地铁站，11家商场，11家餐馆，2个ATM，1家超市，1个加油站，1个火车票代售点，2家银行，142个小区</span></div></div><p>任职资格：任职要求<br />（1）学历要求：计算机相关专业专科以上学历，对计算机感兴趣的人员也可；<br />（2）工作经验要求：经验不限，但至少要掌握一门语言；   <br />（3）具有敬业、创新精神和开拓意识，善于合作，有较强的沟通能力和团队精神；<br />（4）目前居住在上海这或近期来上海发展者优先。工作时间：做五休二<br />联系人：张老师 <....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/19324171239687/' target='_blank' class='fl' title="上海达内为上软件科技有限公司浦东分公司">上海达内为上软件科技有限公司浦东...</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_41575498_13037450416517_3_2">
+<dd class="w46">
+<i infoid="13037450416517"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/13037450416517x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >.net程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>204分</span></div><h2>上海圣品网络科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>1年以下</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海宝山高境</li><li><span>转正工资：</span>5000-8000元</li><li class="nobor"><span>绩效奖金：</span>提成+月度绩效，最高为岗位月工资的10%</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">7张图片</span></div></li><li><div><span class="fl">企业视频</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>6个公交站，2个地铁站，1家商场，1家餐馆，6个ATM，7家超市，2个加油站，1个火车票代售点，9家银行，10个小区</span></div></div><p> 岗位职责  1、负责企业网站、行业网站以及商城网站的后台功能开发； <br /><br />2、在既定程序标准规范内，完善模块功能，部署实施网站后台架构； <br /><br />3、检测网站程序功能的可用性、易用性，并从人性化、用户体验的角度考虑后台功能； <br /><br />4、不断学习最新技术，开发最有利于客户的后台程序，并且可以在原有的功能基础上....</p></div></div></span>
+<span class='tu' title=''>[7图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/41575498/' target='_blank' class='fl' title="上海圣品网络科技有限公司">上海圣品网络科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">高境</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_12201794569222_14795399444618_3_2">
+<dd class="w46">
+<i infoid="14795399444618"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14795399444618x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >Android安卓开发</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>195分</span></div><h2>锐钧科技（学乐网）</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>不限</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议,一个月内转正</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">话补</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>11个公交站，20个地铁站，4家商场，157家餐馆，3个ATM，1家超市，5个加油站，2个火车票代售点，6家银行，77个小区</span></div></div><p>岗位职责：<br />1、从事Android智能手机界面，应用软件开发；<br />2、根据产品功能需求设计并完成软件实现；<br />3、参与功能的架构设计，系统分析，独立完成编码，单元测试；<br />4、跟进Android的新技术发展, 编写设计开发及实现文档。<br />岗位要求：<br />1、计算机及相关专业本科以上学历；<br />2、2年以上J....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/12201794569222/' target='_blank' class='fl' title="锐钧科技（学乐网）">锐钧科技（学乐网）</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_18678871229447_16043909992458_3_2">
+<dd class="w46">
+<i infoid="16043909992458"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/16043909992458x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >急招应往届生4500起</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>214分</span></div><h2>北京翡翠教育科技有限公司上海分公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>20人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>高中</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">年底双薪</span></div></li><li><div class="cbbg1"><span class="fl">话补</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>3个公交站，2个地铁站，2家商场，97家餐馆，7个ATM，5家超市，5个加油站，1个火车票代售点，11家银行，75个小区</span></div></div><p>岗位职责：安卓游戏软件开发，安卓应用软件开发，iOS应用软件开发，<br /> 任职资格：专业不限，上进心强，服从管理，对软件开发感兴趣。（计算机相关专业优先） <br />工作时间：早上8:30-下午5:30 做五休二</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/18678871229447/' target='_blank' class='fl' title="北京翡翠教育科技有限公司上海分公司">北京翡翠教育科技有限公司上海分公...</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_5587649138950_9378119851787_3_2">
+<dd class="w46">
+<i infoid="9378119851787"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/9378119851787x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >php程序员软件工程师</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>183分</span></div><h2>上海协豪投资管理有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>若干</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，1个地铁站，6家商场，1家餐馆，1个ATM，6家超市，4个加油站，2个火车票代售点，2家银行，3个小区</span></div></div><p>工作职责： 
+1、负责配合设计师对设计稿进行页面制作。 
+2、网站新增功能开发 
+3、网站服务器维护 
+岗位要求： 
+1、熟悉LAMP开发环境 
+2、有网站PHP开发经验者优先 
+3、熟练web前端HTML〔XHTML），熟练div+css， 
+4、熟悉JQuery等JS框架，熟悉Smarty，ajax等； 
+5、具有团队合作精神，积极、热情....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/5587649138950/' target='_blank' class='fl' title="上海协豪投资管理有限公司">上海协豪投资管理有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_57113179_15657449172874_3_2">
+<dd class="w46">
+<i infoid="15657449172874"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15657449172874x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PHP程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>182分</span></div><h2>上海洛基文化传播有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>3-5年</li><li><span>学历要求：</span>高中</li><li class="mar30"><span>工作地点：</span>上海松江松江新城</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>6个公交站，8个地铁站，1家商场，111家餐馆，14个ATM，6家超市，6个加油站，2个火车票代售点，19家银行，162个小区</span></div></div><p>人才要求：<br />1.精通PHP开发语言，熟练CSS、Html、JS、Javascript、AJAX、ASP、NET.<br />2.精通服务器维护管理，熟练使用MXSQL、SQL数据库<br />3.精通网站开发中的常见安全漏洞避免方法，会织梦，帝国cms的优先。<br />4.能独立开发网站，有成熟案例，有美工基础优先，会手机客户端开发优先<br />....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/57113179/' target='_blank' class='fl' title="上海洛基文化传播有限公司">上海洛基文化传播有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">松江新城</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_18108323725063_15507876545281_3_2">
+<dd class="w46">
+<i infoid="15507876545281"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15507876545281x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >初级程度员（java等）</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>199分</span></div><h2>塞依科技</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>计算机/互联网/通信</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海徐汇徐家汇</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg2"><span class="fl">做五休二</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg2"><span class="fl">薪资高</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，3个地铁站，2家商场，51家餐馆，8个ATM，1家超市，2个加油站，2个火车票代售点，11家银行，33个小区</span></div></div><p>岗位描述：1、协助项目经理完成SAP软件开发2、SAP软件维护及功能测试职位要求：1.有良好的沟通能力和学习能力，对工作认真负责。<br />2.热爱软件开发事业。3.理工科大专及以上学历。<br />4.需要通过统一的笔试或面试(计算机基础、逻辑思维等）。<br />5.人在上海或近期会来上海者，否则勿投。<br /><br /><br /><br />地址....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/18108323725063/' target='_blank' class='fl' title="塞依科技">塞依科技</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">徐家汇</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_14054641025799_14583856566794_3_2">
+<dd class="w46">
+<i infoid="14583856566794"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14583856566794x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >急招应往届生5000起</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>232分</span></div><h2>翡翠移动互联网人才服务中心</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>20人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>高中</li><li class="mar30"><span>工作地点：</span>上海虹口</li><li><span>转正工资：</span>5000-8000元,两个月内转正</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">2张图片</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">年底双薪</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">话补</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg2"><span class="fl">有需要也可58帮帮联系我</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>7个公交站，7个地铁站，3家商场，153家餐馆，21个ATM，17家超市，2个加油站，1个火车票代售点，26家银行，383个小区</span></div></div><p>岗位职责：安卓游戏软件开发，安卓应用软件开发，iOS应用软件开发<br />任职资格：上进心强，服从管理，对软件开发感兴趣。（计算机相关专业优先）<br />工作时间：早上8:30-下午5:30 做五休二<br /></p></div></div></span>
+<span class='tu' title=''>[2图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/14054641025799/' target='_blank' class='fl' title="翡翠移动互联网人才服务中心">翡翠移动互联网人才服务中心</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">虹口</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_6275071154695_15968437679619_3_2">
+<dd class="w46">
+<i infoid="15968437679619"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15968437679619x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >优化SEO</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>128分</span></div><h2>上海肛泰医院</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>计算机/互联网/通信</li><li><span>招聘人数：</span>2人</li><li class="mar30"><span>工作经验：</span>3-5年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海黄浦</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，2个地铁站，1家餐馆，2个ATM，1家超市，5个加油站，2家银行，9个小区</span></div></div><p><br /> 职位描述：1、了解搜索引擎优化seo的原理和策略，熟悉各大搜索引擎的搜索排名技术如google、baidu等网站上的排名因素；<br />    2、负责医院网站的优化，关注seo动向，适应搜索引擎变化，评估分析网站关键词，提升网站排名；<br />    3、落实网站优化推广计划,制定出seo优化的具体方案，对网站进行内部优化；<br />  ....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/6275071154695/' target='_blank' class='fl' title="上海肛泰医院">上海肛泰医院</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">黄浦</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_8749582286855_16055266302599_3_2">
+<dd class="w46">
+<i infoid="16055266302599"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/16055266302599x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >急聘网络管理员数名交五险</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>183分</span></div><h2>上海战涛餐饮管理有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>10人</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>中专</li><li class="mar30"><span>工作地点：</span>上海松江松江大学城</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>1个公交站，11家餐馆，1个ATM，2家超市，1家银行，14个小区</span></div></div><p>岗位职责：<br />1、电子商务网站开发、系统开发；<br />2、按照项目管理流程，参与研发部门的总体设计评审；<br />3、进行详细设计、代码开发，配合测试，高质量完成项目；<br />4、参与技术难题攻关、组织技术积累等工作。<br />任职资格：<br />1、一年以上开发经验，有企业级应用开发经验；<br />2、精通Java/J2EE编程，有S....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/8749582286855/' target='_blank' class='fl' title="上海战涛餐饮管理有限公司">上海战涛餐饮管理有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">松江大学城</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_13772849916678_14599102509186_3_2">
+<dd class="w46">
+<i infoid="14599102509186"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14599102509186x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >弘益总部V高薪招聘</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>206分</span></div><h2>弘益房地产</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>50人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>高中</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>5000-8000元</li></ul><p>您好，您应聘的是弘益房产销售这个职位 联系人：马先生 电话15800341322<br />职位名称:房地产销售人员<br />职位要求:<br />1、 年龄:20至40周岁;<br />2、 学历:高中以上;<br />3、 语言:普通话良好 表达能力、沟通能力强;<br />4、 积极进取,有上进心,有目标,具有向高薪挑战的信心. <br />5、 工作....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/13772849916678/' target='_blank' class='fl' title="弘益房地产">弘益房地产</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_5737873531398_16011494733320_3_2">
+<dd class="w46">
+<i infoid="16011494733320"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/16011494733320x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >Php程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>209分</span></div><h2>上海中擎网络科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>不限</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>1个公交站，8个地铁站，1家商场，3家餐馆，13个ATM，1家超市，4个加油站，1个火车票代售点，19家银行，1个小区</span></div></div><p>Php程序员工作职责：<br />1、负责项目内的详细设计及编码工作；<br />2、参与项目技术的讨论，提出合理建议；<br />3、安排项目工作的实施，参与项目完成之后的总结。<br />岗位要求：<br />1、需求人数3人；2、性别不限；3、学历不限；4、工作经验不限；5、一年以上的工作经验者优先；6、具有良好的团队合作精神，具备良好的沟通协作能力。<br /></p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/5737873531398/' target='_blank' class='fl' title="上海中擎网络科技有限公司">上海中擎网络科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_26266422_9102202626181_3_2">
+<dd class="w46">
+<i infoid="9102202626181"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/9102202626181x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >软件工程师</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>165分</span></div><h2>上海康开房地产咨询有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>3人</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>不限</li><li class="mar30"><span>工作地点：</span>上海奉贤南桥</li><li><span>转正工资：</span>3000-5000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>14个公交站，2家商场，78家餐馆，4个ATM，7家超市，1个加油站，3个火车票代售点，8家银行，22个小区</span></div></div><p>职位要求 
+1、计算机及相关专业大专以上学历；
+2、熟悉.net平台，熟练C#.net编程，至少一年asp.net开发经验 3、熟练掌握javascript,css,html,Ajax技术；
+4、熟悉SQL Server 2000、SQL Server 2005、ACCESS数据库；
+5、具备前台web优化和SqlServer优化经验 
+6、有电子商....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/26266422/' target='_blank' class='fl' title="上海康开房地产咨询有限公司">上海康开房地产咨询有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">南桥</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_13398176183815_15225596614919_3_2">
+<dd class="w46">
+<i infoid="15225596614919"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15225596614919x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >as3程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>207分</span></div><h2>上海星碟信息技术有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>本科</li><li class="mar30"><span>工作地点：</span>上海闵行浦江</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>4个公交站，1个地铁站，2家餐馆，4个ATM，2家超市，2个加油站，6家银行，7个小区</span></div></div><p>职位描述:<br />1 负责webgame模块开发;<br />2 Flash框架和组件编写;<br /><br />职位要求：<br />1、1年以上页游开发经验，熟练使用flash builder或flash developer，以及 flash cs 等工具；<br />2、富有 Flex 面向对象编程经验；熟练设计flash 交互流程；掌握基本的fl....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/13398176183815/' target='_blank' class='fl' title="上海星碟信息技术有限公司">上海星碟信息技术有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">浦江</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_27819622_12983094207624_3_2">
+<dd class="w46">
+<i infoid="12983094207624"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/12983094207624x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >3G+物联网培训生</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>176分</span></div><h2>上海达内软件科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海虹口</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>3个公交站，4个地铁站，3家商场，164家餐馆，5个ATM，12家超市，2个加油站，6个火车票代售点，9家银行，205个小区</span></div></div><p>1、大专以上学历（逻辑思维强者，可放宽至高中/中专学历）； 
+2、热爱计算机软件开发事业； 
+3、通过统一入学测试； 
+4、在职或离职人员但想转行； 
+5、目前在上海或者近期会来上海。 
+如果你符合我们的条件，我们将为你提供1~4个月的岗前实训， 
+实训结束后，输送到各个IT知名企业工作。</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/27819622/' target='_blank' class='fl' title="上海达内软件科技有限公司">上海达内软件科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">虹口</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_17725841258502_15195218604298_3_2">
+<dd class="w46">
+<i infoid="15195218604298"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15195218604298x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PHP程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>197分</span></div><h2>上海九口袋实业有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>2人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海嘉定</li><li><span>转正工资：</span>5000-8000元</li><li class="nobor"><span>绩效奖金：</span>+项目提成</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">年底双薪</span></div></li><li><div class="cbbg2"><span class="fl">定期旅游</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>1个公交站，1个地铁站，1家商场，19家餐馆，4个ATM，2家超市，1个加油站，1个火车票代售点，2家银行，1个小区</span></div></div><p>岗位职责：<br />一、主要负责公司项目及网站的后期维护。<br />二、按照项目管理流程，参与研发部门的总体设计评审；<br />三、参与技术难题攻关、组织技术积累等工作。<br />四、电子商务网站开发、系统开发；要求1、精通PHP+MySQL开发及PHP OOP编程,使用PHP的开发经验必须不少于三年;<br />二、精通Ajax、DHTML、CSS、....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/17725841258502/' target='_blank' class='fl' title="上海九口袋实业有限公司">上海九口袋实业有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">嘉定</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_13523274410503_13658321711489_3_2">
+<dd class="w46">
+<i infoid="13658321711489"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/13658321711489x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >php程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>196分</span></div><h2>上海九龙男子医院有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海普陀金沙江路</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，9个地铁站，2家商场，27家餐馆，5个ATM，3家超市，1个加油站，3个火车票代售点，8家银行，8个小区</span></div></div><p>职位要求：1. 熟悉织梦建站<br />2. 精通php，mysql，div+css<br />3. 两年以上工作经验<br />有意者可直接电话或投系统简历。<br /><br /><br /></p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/13523274410503/' target='_blank' class='fl' title="上海九龙男子医院有限公司">上海九龙男子医院有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">金沙江路</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_3838440957190_14973443488514_3_2">
+<dd class="w46">
+<i infoid="14973443488514"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14973443488514x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >php工程师</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>176分</span></div><h2>上海丰核生物科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海闵行</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">5张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>7个公交站，6个地铁站，1家商场，6家餐馆，1个ATM，2家超市，3个加油站，1家银行，2个小区</span></div></div><p><br />应聘要求：<br />1）熟悉php与mysql<br />2）有网站建设与优化经验<br />3）要有稳定性<br />4)会php编程，并有相关的项目经验。<br /><br />请将详细的简历发送至hr@microsci.com邮箱。</p></div></div></span>
+<span class='tu' title=''>[5图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/3838440957190/' target='_blank' class='fl' title="上海丰核生物科技有限公司">上海丰核生物科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">闵行</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_29095583_15856539081474_3_2">
+<dd class="w46">
+<i infoid="15856539081474"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15856539081474x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >游戏客户端程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>206分</span></div><h2>上海志趣动漫设计有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>计算机/互联网/通信</li><li><span>招聘人数：</span>10人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>中专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">6张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，9个地铁站，3家商场，181家餐馆，9个ATM，12家超市，2个加油站，2个火车票代售点，13家银行，216个小区</span></div></div><p>工作职责<br />1、网络游戏客户端逻辑开发；<br />2、网络游戏客户端效果开发；<br />3、开发游戏运营和本地化的必要工具软件。<br />任职要求<br />1、熟练掌握C/C++;<br />2、对界面控件工作原理有深刻认识；<br />3、熟练掌握数据结构和常用算法；<br />4、能正确认识网络游戏开发工作；<br />5、对游戏，特别是网络游戏有充分认识；<br />6、学习能力强，善于与人沟通，良好的团队合作意识；<br />7、拥有创新...<br></p></div></div></span>
+<span class='tu' title=''>[6图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/29095583/' target='_blank' class='fl' title="上海志趣动漫设计有限公司">上海志趣动漫设计有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_4060643181062_15925854131720_3_2">
+<dd class="w46">
+<i infoid="15925854131720"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15925854131720x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >php程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>208分</span></div><h2>上海汇顾通讯设备有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>2人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，12个地铁站，1家商场，34家餐馆，2个ATM，3家超市，1个加油站，3个火车票代售点，4家银行，31个小区</span></div></div><p>岗位职责：1、负责网站及产品的研发、优化工作；<br />2、负责网站服务器的管理；<br />3、负责网站日常维护和系统更新工作；<br />4、负责网站新功能、重要功能的开发、优化、维护；<br />5、维护网站的正常运营和安全。 任职资格：职位描述：<br /><br />1. 负责公司网站的二次开发和维护<br />2. 对网站已经上线的功能进行修改和....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/4060643181062/' target='_blank' class='fl' title="上海汇顾通讯设备有限公司">上海汇顾通讯设备有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_49954031_14186678630405_3_2">
+<dd class="w46">
+<i infoid="14186678630405"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14186678630405x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >PHP程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>189分</span></div><h2>上海杨浦区日月星养老院</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>2人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海闸北闸北公园</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">餐补</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通很便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>3个公交站，1个地铁站，57家餐馆，1个ATM，3家超市，4个加油站，1个火车票代售点，3家银行，22个小区</span></div></div><p>岗位职责：<br />1、根据要求定制开发与维护医院网站程序； <br />2、负责医院运营网站总体架构设计与开发；<br />3、与网络信息部人员通力配合，负责网站页面与数据库优化开发。<br /><br />任职资格：<br />1、熟练使用php开发网站。至少一年以上php网站开发经验；<br />2、精通PHP + MYSQL数据库的设计与开发，熟悉存....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/49954031/' target='_blank' class='fl' title="上海杨浦区日月星养老院">上海杨浦区日月星养老院</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">闸北公园</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_7042443868166_13954709741319_3_2">
+<dd class="w46">
+<i infoid="13954709741319"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/13954709741319x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >聘SEO人员+培训+包住</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>224分</span></div><h2>涌砚科技</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>20人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>中专</li><li class="mar30"><span>工作地点：</span>上海普陀</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">4张图片</span></div></li><li><div><span class="fl">企业视频</span></div></li><li><div class="cbbg2"><span class="fl">交通便利</span></div></li><li><div class="cbbg2"><span class="fl">高薪资</span></div></li><li><div class="cbbg2"><span class="fl">包住宿</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>1个公交站，2个地铁站，2家商场，3家餐馆，1个ATM，2家超市，3个加油站，3家银行，1个小区</span></div></div><p>上海涌砚实业有限公司因公司规模扩大，诚聘seo专员5-10人。<br />性别：男女不限，有工作经验者优先考虑       学历要求：中专及中专以上 <br />一、岗位职责：<br />1、熟悉了解Baidu等知名搜索引擎的原理和特点，熟悉排名规则和规律，并制定优化策略。 <br />2.网站内部优化能力，掌握网站内容优化、关键词优化、内部链接优化、代码优化....</p></div></div></span>
+<span class='tu' title=''>[4图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/7042443868166/' target='_blank' class='fl' title="涌砚科技">涌砚科技</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">普陀</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_9059944785159_15072953791754_3_2">
+<dd class="w46">
+<i infoid="15072953791754"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15072953791754x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >Java程序员定岗实习生</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>220分</span></div><h2>北京中关村软件园人才基地</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>20人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>3000-5000元</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">1张图片</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg1"><span class="fl">加班补助</span></div></li><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg1"><span class="fl">年底双薪</span></div></li><li><div class="cbbg1"><span class="fl">交通补助</span></div></li><li><div class="cbbg1"><span class="fl">房补</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，33家餐馆，2个ATM，5家超市，1个火车票代售点，4家银行，1个小区</span></div></div><p> 随着北京中关村软件园的全面落成，到2015年软件园软件工程师数量将由现在的3万人达到10万人的规模，为满足园区软件企业人才的需求，北京中关村软件园人才基地本月招收软件工程师岗前实习生120名；人才基地由国家发改委投资建设，北京中关村软件园官方承办，基地承担着园区内200多家知名软件企业的人才培养、输送的任务，入训学生学习结束，由软件园人才基地统一安排工作，确....</p></div></div></span>
+<span class='tu' title=''>[1图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/9059944785159/' target='_blank' class='fl' title="北京中关村软件园人才基地">北京中关村软件园人才基地</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_57113179_14798166752513_3_2">
+<dd class="w46">
+<i infoid="14798166752513"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14798166752513x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >程序员</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>182分</span></div><h2>上海洛基文化传播有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>不限</li><li class="mar30"><span>工作地点：</span>上海松江松江新城</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>6个公交站，8个地铁站，1家商场，111家餐馆，14个ATM，6家超市，6个加油站，2个火车票代售点，19家银行，162个小区</span></div></div><p>薪资福利：<br />高薪底金+业绩奖金+纪录奖金+团队奖金+目标奖金+年终奖金+社保+公司活动、旅游+部门活动、旅游+国外旅游+生日礼物或礼金+结婚礼金+失恋假+住房无息贷款。<br />人才要求：<br />1.精通PHP开发语言，熟练CSS、Html、JS、Javascript、AJAX、ASP、NET.<br />2.精通服务器维护管理，熟练使用MXS....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/57113179/' target='_blank' class='fl' title="上海洛基文化传播有限公司">上海洛基文化传播有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">松江新城</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_18108323725063_15392257398913_3_2">
+<dd class="w46">
+<i infoid="15392257398913"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/15392257398913x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >软件测试程序员/实习生</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>199分</span></div><h2>塞依科技</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海徐汇徐家汇</li><li><span>转正工资：</span>5000-8000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg2"><span class="fl">做五休二</span></div></li><li><div class="cbbg2"><span class="fl">上班时间固定</span></div></li><li><div class="cbbg2"><span class="fl">薪资高</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，3个地铁站，2家商场，51家餐馆，8个ATM，1家超市，2个加油站，2个火车票代售点，11家银行，33个小区</span></div></div><p>岗位职责：
+1、负责SAP软件渠道运营的功能、性能测试工作；
+2、负责参与SAP项目测试用例的编写、评审与执行；
+3、负责与开发团队技术人员的沟通工作；
+4、负责参与ＳＡＰ项目的需求与设计评审；
+5、领导安排的其他工作。
+
+任职要求：
+1、学历要求：大专及以上学历，计算机、信息管理、软件开发等相关专业。
+2、有编程经验优先；
+3、具有良好的....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/18108323725063/' target='_blank' class='fl' title="塞依科技">塞依科技</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">徐家汇</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_14054641025799_13478663599880_3_2">
+<dd class="w46">
+<i infoid="13478663599880"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/13478663599880x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >IOS开发实训生</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>207分</span></div><h2>翡翠移动互联网人才服务中心</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>30人</li><li class="mar30"><span>工作经验：</span>不限，可接收应届毕业生</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海</li><li><span>转正工资：</span>3000-5000元</li><li class="nobor"><span>绩效奖金：</span>月度绩效，最高为岗位月工资的10%</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">2张图片</span></div></li><li><div class="cbbg1"><span class="fl">五险一金</span></div></li><li><div class="cbbg2"><span class="fl">安排就业</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>7个公交站，7个地铁站，3家商场，153家餐馆，21个ATM，17家超市，2个加油站，1个火车票代售点，26家银行，383个小区</span></div></div><p>我们现在正在为知名IT企业培养软件开发方面的人才， 而你只需要： 1、大专以上学历（逻辑思维强者，可放宽至高中/中专学历）； 2、热爱计算机软件开发事业；3、在职或离职人员但想转行；4、目前在上海或者近期会来上海。 如果你符合我们的条件，我们将为你提供1~4个月的岗前实训， 实训结束后，输送到各个IT知名企业工作。 薪资范围：3500~7000元。 你也不用为....</p></div></div></span>
+<span class='tu' title=''>[2图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/14054641025799/' target='_blank' class='fl' title="翡翠移动互联网人才服务中心">翡翠移动互联网人才服务中心</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">上海</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_13523274410503_14266802609921_3_2">
+<dd class="w46">
+<i infoid="14266802609921"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/14266802609921x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >php程序</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>176分</span></div><h2>上海九龙男子医院有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>1人</li><li class="mar30"><span>工作经验：</span>1-2年</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海普陀金沙江路</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg1"><span class="fl">提供食宿</span></div></li><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>2个公交站，9个地铁站，2家商场，27家餐馆，5个ATM，3家超市，1个加油站，3个火车票代售点，8家银行，8个小区</span></div></div><p>1.具有2年以上PHP开发经验，有大型网站开发工作经验并 如实提供作品案例。<br />2.熟悉JavaScript，XML，ajax，精通Div CSS，jQuery技术。<br />3.精通PHP及MVC架构技术，具备在Linux平台下使用PHP开发网站的经验，可在服务器系统配置php运行环境者优先。<br />4.熟悉 mysql包括数据库设计,速度优化....</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/13523274410503/' target='_blank' class='fl' title="上海九龙男子医院有限公司">上海九龙男子医院有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">金沙江路</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_27819622_12983125557898_3_2">
+<dd class="w46">
+<i infoid="12983125557898"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/12983125557898x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >3G培训生</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>176分</span></div><h2>上海达内软件科技有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>5人</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>大专</li><li class="mar30"><span>工作地点：</span>上海虹口</li><li><span>转正工资：</span>3000-5000元</li></ul><div class="comSpot"><ul class="cbright"><li><div class="cbbg3"><span class="fl">生活超级便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>3个公交站，4个地铁站，3家商场，164家餐馆，5个ATM，12家超市，2个加油站，6个火车票代售点，9家银行，205个小区</span></div></div><p>1、大专以上学历（逻辑思维强者，可放宽至高中/中专学历）； 
+2、热爱计算机软件开发事业； 
+3、通过统一入学测试； 
+4、在职或离职人员但想转行； 
+5、目前在上海或者近期会来上海。 
+如果你符合我们的条件，我们将为你提供1~4个月的岗前实训，</p></div></div></span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/27819622/' target='_blank' class='fl' title="上海达内软件科技有限公司">上海达内软件科技有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">虹口</dd>
+<dd class="w68">今天</dd>
+</dl>
+  <dl logr="j_2_8749582286855_16055266257541_3_2">
+<dd class="w46">
+<i infoid="16055266257541"></i>
+</dd>
+<dt>
+<a href="http://sh.58.com/tech/16055266257541x.shtml" target="_blank" class="t" tips="t" _t="jingpin" >急聘网络管理员数名交五险</a>
+<span class="hoverinfobox" style="display:none;"><div id="arrow"><em></em><span></span></div><div id="tipsbox" class="tipsbox"><div class="xboxcontent"><div class="posCom">职位竞争力：<span>183分</span></div><h2>上海战涛餐饮管理有限公司</h2><ul class="zhanshi clearfix"><li class="mar30"><span>招聘职位：</span>程序员</li><li><span>招聘人数：</span>10人</li><li class="mar30"><span>工作经验：</span>不限</li><li><span>学历要求：</span>中专</li><li class="mar30"><span>工作地点：</span>上海松江松江大学城</li><li><span>转正工资：</span>面议</li></ul><div class="comSpot"><ul class="cbright"><li><div><span class="fl">8张图片</span></div></li><li><div class="cbbg3"><span class="fl">生活便利</span></div></li><li><div class="cbbg3"><span class="fl">交通超级便利</span></div></li></ul><div class="traInfo">1公里范围内有：<span>1个公交站，11家餐馆，1个ATM，2家超市，1家银行，14个小区</span></div></div><p>岗位职责：<br />1、电子商务网站开发、系统开发；<br />2、按照项目管理流程，参与研发部门的总体设计评审；<br />3、进行详细设计、代码开发，配合测试，高质量完成项目；<br />4、参与技术难题攻关、组织技术积累等工作。<br />任职资格：<br />1、一年以上开发经验，有企业级应用开发经验；<br />2、精通Java/J2EE编程，有S....</p></div></div></span>
+<span class='tu' title=''>[8图]</span>
+
+</dt>
+<dd class="w271">
+<a href='http://qy.58.com/8749582286855/' target='_blank' class='fl' title="上海战涛餐饮管理有限公司">上海战涛餐饮管理有限公司</a>
+<a class="ico yan" title="营业执照已验证" target="_blank" ></a>
+</dd>
+<dd class="w96">松江大学城</dd>
+<dd class="w68">今天</dd>
+</dl>
+</div>
+<div id="bottom_google_ad" class="zLink"></div>
+<div class="seleAll"><!--当鼠标滑过选项时为div添加样式ihover，当选中时添加样式iselect-->
+<span>
+<i></i>
+全选
+</span>
+<input class="pl fl" type="button" value="批量投递简历" onClick="batchsubmit2()"/>
+</div>
+<script type="text/javascript">
+function batchsubmit2(){
+var arr = window.getSelect();
+var infoids = [];
+if (!arr.length) { alert('请先选择职位！'); return; }
+for (var i = 0, len = arr.length; i < len; i++) {
+infoids.push($(arr[i]).attr("infoid"));
+}
+var cid="";
+if(____json4fe.catentry.length>=2){
+cid="&c="+____json4fe.catentry[1].dispid;
+}
+var url ="http://jianli.58.com/resumedelivery/?infoid="+infoids.join(",")+"&fromType=2&itype=1"+cid;
+setbg('批量投递简历', 600, 345, url, true);
+_gaq.push(['pageTracker._trackEvent', 'list', 'click', '/zhaopin/deliver/click_list/']);
+}
+</script>
+</div>
+</div>
+<div class="pagerout">
+<div class="pager">
+ <strong><span>1</span></strong><a href="/chengxuyuan/pn2/"><span>2</span></a><a href="/chengxuyuan/pn3/"><span>3</span></a><a href="/chengxuyuan/pn4/"><span>4</span></a><a href="/chengxuyuan/pn5/"><span>5</span></a><a href="/chengxuyuan/pn6/"><span>6</span></a><a href="/chengxuyuan/pn7/"><span>7</span></a><a href="/chengxuyuan/pn8/"><span>8</span></a><a class="next" href="/chengxuyuan/pn2/"><span>下一页</span></a>
+<!--点击上一页添加样式prevC--><!--点击下一页添加样式nextC-->
+<!--当前页添加样式currentPage，已点击页码添加样式readPage-->
+</div>
+</div>
+</div>
+<div id="rightframe" class="rightbar cright">
+<div id="ad18"></div>
+<div id="ad19"></div>
+</div>
+<div id="bottom_zhaoshangjiameng_ad"></div> <div id="direct_ad_bottom"></div></div>
+<div class="bottom">
+<div id="links" class="links">
+<dl class="cIntro">
+<dt>上海程序员频道介绍：</dt>
+<dd>
+
+</dd>
+</dl>
+<dl class="sRele" id="relate">
+<dt>上海程序员相关：</dt>
+<dd>
+<span>
+<a href="/tech/jh_%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BC%80%E5%8F%91/" target="_blank">程序员开发</a>
+</span>
+<span>
+<a href="/tech/jh_net%E7%A8%8B%E5%BA%8F%E5%91%98/" target="_blank">net程序员</a>
+</span>
+</dd>
+</dl>
+<dl class="sRecom">
+<dt>上海程序员相关推荐：</dt>
+<dd>
+<a href='http://bj.58.com/chengxuyuan/'>北京程序员招聘</a>
+<a href='http://sz.58.com/chengxuyuan/'>深圳程序员招聘</a>
+<a href='http://gz.58.com/chengxuyuan/'>广州程序员招聘</a>
+<a href='http://sh.58.com/chengxuyuan/'>上海程序员招聘</a>
+<a href='http://cd.58.com/chengxuyuan/'>成都程序员招聘</a>
+<a href='http://wh.58.com/chengxuyuan/'>武汉程序员招聘</a>
+<a href='http://xa.58.com/chengxuyuan/'>西安程序员招聘</a>
+<a href='http://cq.58.com/chengxuyuan/'>重庆程序员招聘</a>
+<a href='http://su.58.com/chengxuyuan/'>苏州程序员招聘</a>
+<a href='http://cs.58.com/chengxuyuan/'>长沙程序员招聘</a>
+<a href='http://zz.58.com/chengxuyuan/'>郑州程序员招聘</a>
+<a href='http://tj.58.com/chengxuyuan/'>天津程序员招聘</a>
+<a href='http://nj.58.com/chengxuyuan/'>南京程序员招聘</a>
+<a href='http://hz.58.com/chengxuyuan/'>杭州程序员招聘</a>
+<a href='http://hrb.58.com/chengxuyuan/'>哈尔滨程序员招聘</a>
+<a href='http://hf.58.com/chengxuyuan/'>合肥程序员招聘</a>
+<a href='http://dg.58.com/chengxuyuan/'>东莞程序员招聘</a>
+<a href='http://jn.58.com/chengxuyuan/'>济南程序员招聘</a>
+<a href='http://sy.58.com/chengxuyuan/'>沈阳程序员招聘</a>
+<a href='http://qd.58.com/chengxuyuan/'>青岛程序员招聘</a>
+<a href='http://sjz.58.com/chengxuyuan/'>石家庄程序员招聘</a>
+</dd>
+</dl>
+<dl class="fLink">
+<dt>上海程序员周边城市：</dt>
+<dd>
+<span>
+<a target="_blank" href="http://su.58.com/job.shtml">苏州招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://wx.58.com/job.shtml">无锡招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://jx.58.com/job.shtml">嘉兴招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://hz.58.com/job.shtml">杭州招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://cz.58.com/job.shtml">常州招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://huzhou.58.com/job.shtml">湖州招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://nj.58.com/job.shtml">南京招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://yz.58.com/job.shtml">扬州招聘</a>
+</span>
+<span>
+<a target="_blank" href="http://nb.58.com/job.shtml">宁波招聘</a>
+</span>
+  
+</dd>
+</dl>
+<dl class="fLink">
+<dt>热门搜索：</dt>
+<dd>
+<ul class="b-ul">
+<a href="http://sou.58.com/?key=%E6%B1%82%E8%81%8C" target="_blank" rel="nofollow">求职</a>&nbsp;
+<a href="http://sou.58.com/?key=%E5%85%BC%E8%81%8C" target="_blank" rel="nofollow">兼职</a>&nbsp;	
+<a href="http://sou.58.com/?key=%E6%89%BE%E5%B7%A5%E4%BD%9C" target="_blank" rel="nofollow">找工作</a>&nbsp;	
+<a href="http://sou.58.com/?key=%E9%94%80%E5%94%AE" target="_blank" rel="nofollow">销售</a>&nbsp;	
+<a href="http://sou.58.com/?key=%E6%8B%9B%E8%81%98" target="_blank" rel="nofollow">招聘</a>&nbsp;	
+<a href="http://sou.58.com/?key=%E4%BA%BA%E4%BA%8B" target="_blank" rel="nofollow">人事</a>&nbsp;	
+<a href="http://sou.58.com/?key5=%E7%BD%91%E4%B8%8A%E5%85%BC%E8%81%8C" target="_blank" rel="nofollow">网上兼职</a>&nbsp;
+<a href="http://sou.58.com/?key=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%AE%80%E5%8E%86" target="_blank" rel="nofollow">大学生简历</a>&nbsp;	
+</ul>
+</dd>
+</dl>
+</div>
+<ul class="fuwu">
+<li>
+<a target="_blank" class="blink1" href="http://about.58.com/online-kefu.html" rel="nofollow">举报招聘欺诈 核实有奖</a>
+</li>
+<li>
+<a target="_blank" class="blink2" href="http://about.58.com/info/del-menu.html" rel="nofollow">删除信息/简历 登录账户或短信删除</a>
+</li>
+<li>
+<a target="_blank" class="blink3" href="http://my.58.com/authbiz/" rel="nofollow">验证营业执照 可获得10份免费简历</a>
+</li>
+<li>
+<a target="_blank" class="blink4" href="http://apply.vip.58.com/" rel="nofollow">招聘通服务 中小企业的最佳选择</a>
+</li>
+</ul>
+<div id="footer">
+&copy; 58.com <a id="askicon" target="_blank" title="有问题请与58客服进行对话" rel="nofollow" href="http://about.58.com/v5/">帮助中心</a>
+</div>
+<script type="text/javascript">
+var select="false";	//是否选中
+var data;
+//公司行业
+var hyyqArr = [];
+data={"text":"互联网/电子商务","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_244_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"计算机软件","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_245_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"计算机硬件","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_246_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"IT服务/系统集成","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_247_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"通信/电信","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_248_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"电子技术/半导体/集成电路","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_249_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"仪器仪表/工业自动化","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_250_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"财务/审计","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_251_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"金融/银行","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_252_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"保险","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_253_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"贸易/进出口","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_254_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"批发/零售","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_255_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"快速消费品(食品/饮料等)","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_256_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"耐用消费品（家具/家电等）","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_257_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"服装/纺织/皮革","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_258_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"办公用品及设备","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_259_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"钢铁/机械/设备/重工","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_260_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"汽车/摩托车","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_261_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"医疗/保健/卫生/美容","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_262_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"生物/制药/医疗器械","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_263_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"广告/创意","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_264_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"公关/市场推广/会展","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_265_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"文体/影视/艺术","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_266_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"媒体传播","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_267_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"出版/印刷/造纸","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_268_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"房地产/物业管理","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_269_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"建筑/建材","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_270_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"家居/室内设计/装潢","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_271_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"中介/专业服务","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_272_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"检测/认证","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_273_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"法律/法务","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_274_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"教育/科研/培训","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_275_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"旅游/酒店","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_276_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"娱乐休闲/餐饮/服务","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_277_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"交通/运输/物流","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_278_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"航天/航空","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_279_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"化工/采掘/冶炼","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_280_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"能源（电力/水利/矿产）","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_281_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"原材料和加工","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_282_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"政府/非盈利机构","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_283_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"环保","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_284_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"农林牧渔","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_285_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"多元化集团","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_286_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"人力资源服务","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_3527_pve_5358_0/"};
+hyyqArr.push(data);
+data={"text":"其他行业","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5363_287_pve_5358_0/"};
+hyyqArr.push(data);
+//企业性质
+var gsxzArr = [];
+data={"text":"私营","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1476_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"国有","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1477_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"股份制","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1478_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"外商独资/办事处","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1479_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"中外合资/合作","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1480_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"上市公司","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1481_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"事业单位","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1482_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"政府机关","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1483_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"非营利机构","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1484_pve_5358_0/"};
+gsxzArr.push(data);
+data={"text":"个人企业","select":"false","url":"http://sh.58.com/chengxuyuan/pve_5754_1485_pve_5358_0/"};
+gsxzArr.push(data);
+</script>
+</div>
+<script type="text/javascript" src="http://static.58.com/ui7/js/createElement-lte-IE8.js"></script>
+<script type="text/javascript" src="http://static.58.com/js/5_1/comm_js/boot_listpage_version.js"></script>
+<script type="text/javascript">document.domain = '58.com';
+boot.require('business.topbar', function(Frame, topbar) {
+topbar.init();
+});
+var win1 = new GetToolTipWindow('tooltipdiv1', 'keyword1', '2','1','',true);
+//var win = new GetToolTipWindow('tooltipdiv', 'keyword', '3', '1', '', true, 4);
+var win = new GetToolTipWindow('tooltipdiv', 'keywordtop', '3', '1', '', true, 4);
+win1.setSearchButton('searchbtn1');
+//win.setSearchButton('searchbtn');
+win.setSearchButton('searchbtnSelf');
+boot.require('util.cookie', function(Frame, cookie){cookie.set('city', 'sh');});
+</script>
+<script type="text/javascript">
+$(function() {
+$(".selWel i").click(function(){
+var $this = $(this);
+var $next = $this.next();
+var selected = $this.parent().hasClass("iselect");
+var url="";
+if(selected){
+url=$next.attr("cl");
+}else{
+url= $next.attr("clu");
+}
+document.location=url;
+})
+$(".selWel a").click(function(){
+var $this = $(this);
+var selected = $this.parent().hasClass("iselect");
+var url="";
+if(selected){
+url=$this.attr("cl");
+}else{
+url= $this.attr("clu");
+}
+document.location=url;
+return false;
+})
+})
+</script>
+<script src="http://static.58.com/n/js/listpage/listpage.js?v=20130822"></script>
+<script type="text/javascript">
+function intscrbar(maxsize){
+if($(".resultinfo li").length>maxsize){
+--maxsize;
+$("#cateswitch").show();
+$(".resultinfo li:gt("+maxsize+")").each(function(){$(this).hide();});
+$("#cateswitch").toggle(function(){
+$(".resultinfo li:gt("+maxsize+")").each(function(){
+$(this).show();
+});
+$(this).removeClass('hide').text('收起');
+}, function(){
+$(".resultinfo li:gt("+maxsize+")").each(function(){
+$(this).hide();
+});
+$(this).addClass('hide').text('显示全部');
+});
+}else{return false}
+}
+intscrbar(5);
+</script>
+<script type="text/javascript">
+$(".selector").each(function(){
+$(this).hover(function(){$(this).addClass("hover")},function(){$(this).removeClass("hover")});
+});
+////导航
+var navs = [];
+navs.push(['上海58同城', 'http://sh.58.com/sou/']);
+navs.push(['上海全职招聘','/job.shtml']);
+navs.push(['上海计算机/互联网/通信','/tech/']);
+navs.push(['上海程序员信息','/chengxuyuan/']);
+boot.require('business.navbar', function(Frame, navbar){
+navbar.init(navs);
+});
+///////标红////
+boot.require('business.highlight', function (Frame, highlight) {
+highlight.init($("#infolist a.t"), '');
+highlight.init($("#infolist a.fl"), '');
+highlight.init($("#infolist div.t-red"), '');
+});
+</script>
+<script type="text/javascript">document.write('<scr' + 'ipt src="http://track.58.com/adsys/ggafs?r=' + Math.random() + '"></scr' + 'ipt>');</script>
+
+
+
+
+
+
+
+
+
+
+<div style="display:none">
+<!--基本统计代码begin(9224,0)--by:zhanghao06-->
+<script type="text/javascript"> 
+____json4fe.supplycount = {level1:'0', level2:'0', level3:'0',  level4:'0', level5:'0', sortid: '438775767'};
+var _gaq = _gaq || [], site_name = "58", post_count = "35", page_type = "list";
+ _trackURL = "{'cate':'9224,13909,23542','area':'2','pagetype':'list','pagesize':'35','pagenum':'1','jiage':''}";
+_gaq.push(['pageTracker._setAccount', 'UA-877409-4']);
+_gaq.push(['pageTracker._setDomainName', '.58.com']);
+_gaq.push(['pageTracker._setAllowLinker', true]);
+_gaq.push(['pageTracker._addOrganic', 'sogou', 'query']);
+_gaq.push(['pageTracker._addOrganic', 'baidu', 'word']);
+_gaq.push(['pageTracker._addOrganic', 'soso', 'w']);
+_gaq.push(['pageTracker._addOrganic', 'youdao', 'q']);
+boot.require('business.gaq, util.js', function (Frame, gaq, js) {
+_gaq.push(['pageTracker._trackPageview', '/job/tech/chengxuyuan/list/']);
+	_gaq.push(['pageTracker._trackPageLoadTime']);
+	Frame.init(function () {
+		js.append(('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js');
+		js.append('http://tracklog.58.com/referrer4.js');
+	});
+});
+</script>
+<!--基本统计代码end-->
+</div><div style="display:none">
+<script type="text/javascript">
+</script>
+</div>
+</body>
+</html>
