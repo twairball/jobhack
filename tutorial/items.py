@@ -11,3 +11,8 @@ class WubaItem(Item):
     company = Field()
     location = Field()
 
+class DajieItem(Item):
+    title = Field()
+    link = Field()
+    company = Field()
+    location = Field()
