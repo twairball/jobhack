@@ -1,9 +1,9 @@
 # -*- coding=UTF-8 -*-
 from scrapy.spider import BaseSpider
 from scrapy.selector import Selector
-from tutorial.items import DajieItem
+from tutorial.items import PostItem
 
-# import codecs
+import codecs
 
 class DajieSpider(BaseSpider):
     name = "dajie"
@@ -14,16 +14,19 @@ class DajieSpider(BaseSpider):
 
     def parse(self, response):
         sel = Selector(response)
-        posts = sel.xpath('//div[@class="search-list-con"]')
+        posts = sel.xpath('//div[contains(@class,"search-list-con")]')
         items = []
-        # file = codecs.open('dajie.json', 'w', 'utf-8')
+        file = codecs.open('dajie.json', 'w', 'utf-8')
         for post in posts:
-            item = DajieItem()
-            item['title'] = post.xpath('div[@class="jst-title-wrap"]/h3/a/text()').extract()[0]
-            item['link'] = post.xpath('div[@class="jst-title-wrap"]/h3/a/@href').extract()[0]
-            item['company'] = post.xpath('a[@class="search-company"]/text()').extract()[0]
-            item['location'] = post.xpath('p[@class="search-more-info"]/span/text()').extract()[0]
+            item = PostItem()
+            item['title'] = post.xpath('div[contains(@class,"jst-title-wrap")]/h3/a/text()').extract()[0]
+            item['link'] = post.xpath('div[contains(@class,"jst-title-wrap")]/h3/a/@href').extract()[0]
+            item['company'] = post.xpath('a[contains(@class,"search-company")]/text()').extract()[0]
+            item['location'] = post.xpath('p[contains(@class,"search-more-info")]/span/text()').extract()[0]
             items.append(item)
-            # file.write(output)
-        # file.close()
+
+            output = "{'title': \"%s\", 'link': \"%s\", 'company': \"%s\", 'location': \"%s\"}\n" % (item['title'], item['link'], item['company'], item['location'])
+            print output
+            file.write(output)
+        file.close()
         return items

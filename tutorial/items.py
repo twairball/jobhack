@@ -5,13 +5,7 @@
 
 from scrapy.item import Item, Field
 
-class WubaItem(Item):
-    title = Field()
-    link = Field()
-    company = Field()
-    location = Field()
-
-class DajieItem(Item):
+class PostItem(Item):
     title = Field()
     link = Field()
     company = Field()
