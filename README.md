@@ -15,7 +15,7 @@ http://zs.job001.cn/job/5224a4a1a310b2472552e70dz.html
 
 http://www.51mobilejob.com/jobseeker/Position/97830.html
 
-http://sh.hbrc.com/Company/detailcompInfo-86522-674177.html
+~~http://sh.hbrc.com/Company/detailcompInfo-86522-674177.html~~ #### done
 
 http://www.01hrit.com/job/c-8063140.html
 
