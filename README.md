@@ -31,7 +31,7 @@ http://www.13ejob.com/jobseeker/Position/189445.html
 
 ~~http://jobs.zhaopin.com/520276926250000.htm~~ #### done
 
-http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm
+~~http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm~~ #### done
 
 http://job.lietou.com/job_6475200
 
