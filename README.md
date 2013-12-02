@@ -11,27 +11,29 @@ will also write to ```wuba.json``` in utf-8 print
 ### local sites
 http://zs.job001.cn/job/5224a4a1a310b2472552e70dz.html
 
-http://job.01hr.com/j/j-8328221.html
+~~http://job.01hr.com/j/j-8328221.html~~ #### done
 
 http://www.51mobilejob.com/jobseeker/Position/97830.html
 
-http://sh.hbrc.com/Company/detailcompInfo-86522-674177.html
+~~http://sh.hbrc.com/Company/detailcompInfo-86522-674177.html~~ #### done
 
-http://www.01hrit.com/job/c-8063140.html
+~~http://www.01hrit.com/job/c-8063140.html~~ #### done
 
 http://www.13ejob.com/jobseeker/Position/189445.html
 
-http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob
+~~http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob~~ ## done
 
 ~~http://www.wealink.com/zhiwei/view/18191644/~~ #### done
 
-http://www.oschina.net/job/detail/1412560_7870
+~~http://www.oschina.net/job/detail/1412560_7870~~ #### done
+
+~~http://www.lagou.com/~~ #### done
 
 ~~http://jobs.zhaopin.com/520276926250000.htm~~ #### done
 
-http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm
+~~http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm~~ #### done
 
-http://job.lietou.com/job_6475200
+~~http://job.lietou.com/job_6475200~~ #### done
 
 http://528.com.cn/resume/util/p1384017.html
 
