@@ -21,7 +21,7 @@ http://www.51mobilejob.com/jobseeker/Position/97830.html
 
 http://www.13ejob.com/jobseeker/Position/189445.html
 
-http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob
+~~http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob~~ ## done
 
 ~~http://www.wealink.com/zhiwei/view/18191644/~~ #### done
 
