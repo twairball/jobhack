@@ -23,11 +23,11 @@ http://www.13ejob.com/jobseeker/Position/189445.html
 
 http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob
 
-http://www.wealink.com/zhiwei/view/18191644/
+~~http://www.wealink.com/zhiwei/view/18191644/~~ #### done
 
 http://www.oschina.net/job/detail/1412560_7870
 
-http://jobs.zhaopin.com/520276926250000.htm
+~~http://jobs.zhaopin.com/520276926250000.htm~~ #### done
 
 http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm
 
@@ -45,7 +45,7 @@ http://www.hrm.cn/job/521b601aa3106181e4757d30z.html
 
 
 ### Major sites probably lower yield
-http://job.dajie.com/b0e07cdd-4c37-4217-b982-6dfee415070d.html
+~~http://job.dajie.com/b0e07cdd-4c37-4217-b982-6dfee415070d.html~~ #### blocked?
 http://www.chinahr.com/job/5980ae84ac422452b1ca5f6dj.html
 http://search.51job.com/job/56251776,c.html
-http://sh.58.com/tech/15050519697161x.shtml
+~~http://sh.58.com/tech/15050519697161x.shtml~~ #### done
