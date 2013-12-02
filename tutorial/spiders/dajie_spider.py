@@ -20,12 +20,13 @@ class DajieSpider(BaseSpider):
         for post in posts:
             item = PostItem()
             item['title'] = post.xpath('div[contains(@class,"jst-title-wrap")]/h3/a/text()').extract()[0]
-            item['link'] = post.xpath('div[contains(@class,"jst-title-wrap")]/h3/a/@href').extract()[0]
+            item['url'] = post.xpath('div[contains(@class,"jst-title-wrap")]/h3/a/@href').extract()[0]
             item['company'] = post.xpath('a[contains(@class,"search-company")]/text()').extract()[0]
             item['location'] = post.xpath('p[contains(@class,"search-more-info")]/span/text()').extract()[0]
+            item['source'] = "dajie.com"
             items.append(item)
 
-            output = "{'title': \"%s\", 'link': \"%s\", 'company': \"%s\", 'location': \"%s\"}\n" % (item['title'], item['link'], item['company'], item['location'])
+            output = "{'title': \"%s\", 'url': \"%s\", 'company': \"%s\", 'location': \"%s\"}\n" % (item['title'], item['url'], item['company'], item['location'])
             print output
             file.write(output)
         file.close()

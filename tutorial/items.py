@@ -7,6 +7,8 @@ from scrapy.item import Item, Field
 
 class PostItem(Item):
     title = Field()
-    link = Field()
+    url = Field()
     company = Field()
     location = Field()
+    source = Field()
+    
