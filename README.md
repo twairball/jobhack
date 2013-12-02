@@ -11,7 +11,7 @@ will also write to ```wuba.json``` in utf-8 print
 ### local sites
 http://zs.job001.cn/job/5224a4a1a310b2472552e70dz.html
 
-http://job.01hr.com/j/j-8328221.html
+~~http://job.01hr.com/j/j-8328221.html~~ #### done
 
 http://www.51mobilejob.com/jobseeker/Position/97830.html
 
