@@ -33,7 +33,7 @@ http://www.13ejob.com/jobseeker/Position/189445.html
 
 ~~http://sh.ganji.com/zpxitonggongchengshi/753264930x.htm~~ #### done
 
-http://job.lietou.com/job_6475200
+~~http://job.lietou.com/job_6475200~~ #### done
 
 http://528.com.cn/resume/util/p1384017.html
 
