@@ -17,7 +17,7 @@ http://www.51mobilejob.com/jobseeker/Position/97830.html
 
 ~~http://sh.hbrc.com/Company/detailcompInfo-86522-674177.html~~ #### done
 
-http://www.01hrit.com/job/c-8063140.html
+~~http://www.01hrit.com/job/c-8063140.html~~ #### done
 
 http://www.13ejob.com/jobseeker/Position/189445.html
 
