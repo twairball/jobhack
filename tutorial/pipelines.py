@@ -74,13 +74,13 @@ class MySQLStorePipeline(object):
                 UPDATE job
                 SET title=%s, company=%s, url=%s, location=%s, source=%s, updated=%s
                 WHERE guid=%s
-            """, (item['title'], item['company'], item['url'], item['location'], item['source'], now, guid))
+            """, (item['title'].encode('utf-8'), item['company'].encode('utf-8'), item['url'].encode('utf-8'), item['location'].encode('utf-8'), item['source'].encode('utf-8'), now, guid))
             spider.log("Item updated in db: %s %r" % (guid, item))
         else:
             conn.execute("""
                 INSERT INTO job (guid, title, url, location, source, updated)
                 VALUES (%s, %s, %s, %s, %s, %s)
-            """, (guid, item['title'], item['url'], item['location'], item['source'], now))
+            """, (guid, item['title'].encode('utf-8'), item['url'].encode('utf-8'), item['location'].encode('utf-8'), item['source'].encode('utf-8'), now))
             spider.log("Item stored in db: %s %r" % (guid, item))
 
     def _handle_error(self, failure, item, spider):
