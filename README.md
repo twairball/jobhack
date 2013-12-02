@@ -25,7 +25,9 @@ http://www.headin.cn/Jobs/Detail/Index/3370?from=baidujob
 
 ~~http://www.wealink.com/zhiwei/view/18191644/~~ #### done
 
-http://www.oschina.net/job/detail/1412560_7870
+~~http://www.oschina.net/job/detail/1412560_7870~~ #### done
+
+~~http://www.lagou.com/~~ #### done
 
 ~~http://jobs.zhaopin.com/520276926250000.htm~~ #### done
 
