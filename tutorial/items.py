@@ -11,4 +11,10 @@ class PostItem(Item):
     company = Field()
     location = Field()
     source = Field()
+    salary = Field()
+    edu_req = Field()
+    job_desc = Field()
+    job_req = Field()
+    posted_date = Field()
+
     
