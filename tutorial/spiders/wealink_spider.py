@@ -29,24 +29,7 @@ class WealinkSpider(CrawlSpider):
 
     def parse_index(self, response):
         pass
-
-    # def parse_post_detail(self, response):
-    #     sel = Selector(response)
-    #     posts = sel.xpath('//div[contains(@class,"main job-list")]/div[contains(@class,"section")]')
-    #     items = []
-    #     # file = codecs.open('wealink.json', 'w', 'utf-8')
-    #     for post in posts:
-    #         item = PostItem()
-    #         item['title'] = post.xpath('div[@class="figure-caption"]/div/div[@class="job-title"]/a/text()').extract()[0]
-    #         item['url'] = post.xpath('div[@class="figure-caption"]/div/div[@class="job-title"]/a/@href').extract()[0]
-    #         item['company'] = post.xpath('div[@class="figure-caption"]/div/div[@class="company-name"]/text()').extract()[0]
-    #         item['location'] = post.xpath('div[@class="figure-caption"]/div/div[@class="location-date"]/span[@class="posted-location"]/text()').extract()[0]
-    #         item['source'] = "wealink.com"
-    #         items.append(item)
-
-    #     return items
-
-
+        
     def parse_post_detail(self, response):
         sel = Selector(response)
         post = sel.xpath('//div[contains(@class, "job-description")]')
