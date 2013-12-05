@@ -73,11 +73,14 @@ class WubaSpider(CrawlSpider):
 
             if re.match("薪资".decode('utf-8'), label):
                 salary_string = ' '.join(li.xpath('span[contains(@class, "salary")]/text()').extract())
-                item['location'] = salary_string.strip(' \t\n\r')
+                item['salary'] = salary_string.strip(' \t\n\r')
 
         contents = sel.xpath('//div[contains(@class, "posMsg")]//text()')
         item['job_desc'] = 'XOXOBBQ'.join(contents.extract()).replace('XOXOBBQ', '')
         # item['job_req']...
+
+        location = sel.xpath('//div[contains(@class,"compIntro")]//div[contains(@class,"contact")]//dl/dd/span[contains(@class,"area")]//text()')
+        item['location'] = re.sub('\s+', '', ' '.join(location.extract())).strip('(').strip(')')
 
         item['source'] = "58.com"
         item['url'] = response.url
