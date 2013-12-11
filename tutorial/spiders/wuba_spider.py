@@ -19,6 +19,8 @@ class WubaSpider(CrawlSpider):
         "http://sh.58.com/tech/?key=ios%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
         "http://sh.58.com/tech/?key=css%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
         "http://sh.58.com/tech/?key=java%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
+        "http://sh.58.com/tech/?key=android%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
+        "http://sh.58.com/tech/?key=php%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
     ]
 
     rules = (
