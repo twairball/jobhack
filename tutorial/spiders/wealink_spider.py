@@ -48,7 +48,7 @@ class WealinkSpider(CrawlSpider):
             label = li.xpath('span[contains(@class,"txt-holder")]/text()').extract()[0]
 
             if re.match("工作地点".decode('utf-8'), label):
-                location_string = ' '.join(li.xpath('text()').extract())
+                location_string = ' '.join(li.xpath('a/text()').extract())
                 item['location'] = location_string.strip(' \t\n\r')
 
             if re.match("学历要求".decode('utf-8'), label):
@@ -57,7 +57,8 @@ class WealinkSpider(CrawlSpider):
 
             if re.match("月薪".decode('utf-8'), label):
                 salary_string = ' '.join(li.xpath('span[contains(@class, "salary")]/text()').extract())
-                item['location'] = salary_string.strip(' \t\n\r')
+                if salary_string.strip(' \t\n\r'):
+                    item['salary'] = salary_string.strip(' \t\n\r')
 
             if re.match("发布".decode('utf-8'), label):
                 posted_date_string = ' '.join(li.xpath('text()').extract())
