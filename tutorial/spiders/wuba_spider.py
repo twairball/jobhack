@@ -7,7 +7,7 @@ from scrapy.selector import Selector
 from tutorial.items import PostItem
 
 import re
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 
 class WubaSpider(CrawlSpider):
     # get today date for T-7 filtering
@@ -48,13 +48,18 @@ class WubaSpider(CrawlSpider):
         # top header
         tag_spans = post.xpath('ul[contains(@class, "tag")]/li/span')
         for span in tag_spans:
-            span_text = span.xpath('text()').extract()[0]
+            span_text = ' '.join(span.xpath('text()').extract()).strip(' \n\r\t')
             if re.match('天前发布'.decode('utf-8'), span_text):
-                days_before = span.xpath('strong/text()').extract()[0]
+                days_before = int(span.xpath('strong/text()').extract()[0])
                 date_posted = date.today()- timedelta(days=days_before)
                 item['posted_date'] = date_posted.strftime('%Y-%m-%d')
-            elif re.match('发布'.decode('utf-8'),span_text):
-                #today?
+            elif re.match('小时前发布'.decode('utf-8'),span_text):
+                hours_before = int(span.xpath('strong/text()').extract()[0])
+                date_posted = datetime.now() - timedelta(hours = hours_before)
+                item['posted_date'] = date.today().strftime('%Y-%m-%d')
+            elif re.match('分钟前发布'.decode('utf-8'),span_text):
+                mins_before = int(span.xpath('strong/text()').extract()[0])
+                date_posted = datetime.now() - timedelta(minutes = mins_before)
                 item['posted_date'] = date.today().strftime('%Y-%m-%d')
 
         # info section
@@ -63,16 +68,12 @@ class WubaSpider(CrawlSpider):
         for li in posinfo.xpath('li'):
             label = li.xpath('.//span/text()').extract()[0]
 
-            # if re.match("工作地点".decode('utf-8'), label):
-            #     location_string = ' '.join(li.xpath('text()').extract())
-            #     item['location'] = location_string.strip(' \t\n\r')
-
             if re.match("学历要求".decode('utf-8'), label):
-                edu_req_string = ' '.join(li.xpath('text()').extract())
+                edu_req_string = ' '.join(li.xpath('div[contains(@class, "fl")]/text()').extract())
                 item['edu_req'] = edu_req_string.strip(' \t\n\r')
 
             if re.match("薪资".decode('utf-8'), label):
-                salary_string = ' '.join(li.xpath('span[contains(@class, "salary")]/text()').extract())
+                salary_string = ' '.join(li.xpath('text()').extract())
                 item['salary'] = salary_string.strip(' \t\n\r')
 
         contents = sel.xpath('//div[contains(@class, "posMsg")]//text()')
