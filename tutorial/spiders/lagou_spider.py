@@ -7,7 +7,7 @@ from scrapy.selector import Selector
 from tutorial.items import PostItem
 
 import re
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 
 class LagouSpider(CrawlSpider):
     # get today date for T-7 filtering
@@ -59,37 +59,18 @@ class LagouSpider(CrawlSpider):
         item['location'] = jr_array[0]
         item['salary'] = jr_array[2]
         item['edu_req'] = jr_array[4]
-        
 
+        date_text = jr_array[5]
+        days_before = re.search('(\d+)天前发布'.decode('utf-8'), date_text)
+        posted_time_today = re.search('(\d+:\d+)发布'.decode('utf-8'), date_text)
+        if days_before:
+            date_posted = date.today()- timedelta(days=int(days_before.groups(0)[0]))
+            item['posted_date'] = date_posted.strftime('%Y-%m-%d')
+        elif posted_time_today:
+            date_posted = datetime.datetime.strptime(str(posted_time_today.groups(0)[0]), "%H:%M")
+            date_posted.replace(date.today().year, date.today().month, date.today().day)
+            item['posted_date'] = date_posted.strftime('%Y-%m-%d')
 
-        # top header
-        tag_spans = post.xpath('ul[contains(@class, "tag")]/li/span')
-        for span in tag_spans:
-            span_text = span.xpath('text()').extract()[0]
-            if re.match('天前发布'.decode('utf-8'), span_text):
-                days_before = span.xpath('strong/text()').extract()[0]
-                date_posted = date.today()- timedelta(days=days_before)
-                item['posted_date'] = date_posted.strftime('%Y-%m-%d')
-            elif re.match('发布'.decode('utf-8'),span_text):
-                #today?
-                item['posted_date'] = date.today().strftime('%Y-%m-%d')
-
-        # info section
-        posinfo = post.xpath('div[contains(@class, "posinfo")]/div[contains(@class, "xq")]/ul')
-
-        for li in posinfo.xpath('li'):
-            label = li.xpath('.//span/text()').extract()[0]
-
-
-            if re.match("学历要求".decode('utf-8'), label):
-                edu_req_string = ' '.join(li.xpath('text()').extract())
-                item['edu_req'] = edu_req_string.strip(' \t\n\r')
-
-            if re.match("薪资".decode('utf-8'), label):
-                salary_string = ' '.join(li.xpath('span[contains(@class, "salary")]/text()').extract())
-                item['salary'] = salary_string.strip(' \t\n\r')
-
-        # item['job_req']...
 
         item['source'] = "lagou.com"
         item['url'] = response.url

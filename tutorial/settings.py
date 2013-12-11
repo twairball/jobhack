@@ -19,7 +19,6 @@ DEFAULT_ITEM_CLASS = 'tutorial.items.PostItem'
 
 ITEM_PIPELINES = [
 	'tutorial.pipelines.RequiredFieldsPipeline',
-	'tutorial.pipelines.MySQLStorePipeline',
 	'tutorial.pipelines.MongoDBPipeline',
 	# 'tutorial.pipelines.MySQLStorePipeline',
   ]
