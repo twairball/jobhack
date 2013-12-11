@@ -6,7 +6,6 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import Selector
 from tutorial.items import PostItem
 
-import codecs
 import re
 
 class WealinkSpider(CrawlSpider):
