@@ -77,7 +77,8 @@ class LagouSpider(CrawlSpider):
             date_posted = datetime.datetime.strptime(str(posted_time_today.groups(0)[0]), "%H:%M")
             date_posted.replace(date.today().year, date.today().month, date.today().day)
             item['posted_date'] = date_posted.strftime('%Y-%m-%d')
-
+        elif re.match('\d\d\d\d-\d\d-\d\d', date_text)
+            item['posted_date'] = re.sub('\s','',date_text)
 
         item['source'] = "lagou.com"
         item['url'] = response.url
