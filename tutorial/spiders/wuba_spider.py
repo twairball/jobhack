@@ -72,7 +72,7 @@ class WubaSpider(CrawlSpider):
             label = li.xpath('.//span/text()').extract()[0]
 
             if re.match("学历要求".decode('utf-8'), label):
-                edu_req_string = ' '.join(li.xpath('div[contains(@class, "fl")]/text()').extract())
+                edu_req_string = ' '.join(li.xpath('div[contains(@class, "w380")]/text()').extract())
                 item['edu_req'] = edu_req_string.strip(' \t\n\r')
 
             if re.match("薪资".decode('utf-8'), label):
