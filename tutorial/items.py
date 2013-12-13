@@ -16,5 +16,6 @@ class PostItem(Item):
     job_desc = Field()
     job_req = Field()
     posted_date = Field()
+    score = Field()
 
     

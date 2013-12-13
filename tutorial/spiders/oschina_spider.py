@@ -14,7 +14,7 @@ class OsChinaSpider(CrawlSpider):
     name = "oschina"
     allowed_domains = ["oschina.net"]
     start_urls = [
-        "http://www.oschina.net/job?addr_prv=%E4%B8%8A%E6%B5%B7"  
+        "http://www.oschina.net/job?addr_prv=%E4%B8%8A%E6%B5%B7"
     ]  
 
     rules = (
@@ -67,4 +67,5 @@ class OsChinaSpider(CrawlSpider):
 
         item['source'] = "oschina.net"
         item['url'] = response.url
+        item['score'] = 1
         return item

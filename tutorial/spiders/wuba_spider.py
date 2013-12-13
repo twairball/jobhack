@@ -17,10 +17,11 @@ class WubaSpider(CrawlSpider):
     allowed_domains = ["sh.58.com"]
     start_urls = [
         "http://sh.58.com/tech/?key=ios%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
-        "http://sh.58.com/tech/?key=css%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
-        "http://sh.58.com/tech/?key=java%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
+        "http://sh.58.com/tech/?key=hadoop%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
         "http://sh.58.com/tech/?key=android%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
         "http://sh.58.com/tech/?key=php%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
+        "http://sh.58.com/tech/?key=ruby%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
+        "http://sh.58.com/tech/?key=python%E5%BC%80%E5%8F%91&postdate="+date_filter_str,
     ]
 
     rules = (
@@ -87,4 +88,5 @@ class WubaSpider(CrawlSpider):
 
         item['source'] = "58.com"
         item['url'] = response.url
+        item['score'] = 0
         return item

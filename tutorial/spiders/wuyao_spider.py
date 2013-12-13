@@ -15,8 +15,9 @@ class WealinkSpider(CrawlSpider):
     start_urls = [
         "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=ios",
         "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=android",
-        "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=java",
-        "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=php",
+        "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=hadoop",
+        "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=ruby",
+        "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=020000&keyword=python"
     ]
 
     rules = (
@@ -63,4 +64,5 @@ class WealinkSpider(CrawlSpider):
         # split into item['job_req']  ?
 
         item['source'] = "wuyao.com"
+        item['score'] = 0
         return item

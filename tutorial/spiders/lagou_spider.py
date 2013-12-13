@@ -19,7 +19,14 @@ class LagouSpider(CrawlSpider):
         "http://www.lagou.com/jobs/list_iOS?kd=iOS&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
         "http://www.lagou.com/jobs/list_Java?kd=Java&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
         "http://www.lagou.com/jobs/list_PHP?kd=PHP&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
-        "http://www.lagou.com/jobs/list_Android?kd=Android&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",    
+        "http://www.lagou.com/jobs/list_Android?kd=Android&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_UI?kd=UI&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_%E5%89%8D%E7%AB%AF?kd=%E5%89%8D%E7%AB%AF&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86?kd=%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_ruby?kd=ruby&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_python?kd=python&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_%E6%95%B0%E6%8D%AE?kd=%E6%95%B0%E6%8D%AE&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
+        "http://www.lagou.com/jobs/list_C++?kd=C%2B%2B&st=%E4%B8%80%E5%91%A8%E5%86%85&city=%E4%B8%8A%E6%B5%B7",
     ]  
 
     rules = (
@@ -74,4 +81,5 @@ class LagouSpider(CrawlSpider):
 
         item['source'] = "lagou.com"
         item['url'] = response.url
+        item['score'] = 1
         return item

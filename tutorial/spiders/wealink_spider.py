@@ -14,8 +14,14 @@ class WealinkSpider(CrawlSpider):
     start_urls = [
         "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=ios",
         "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=java",
-        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=css",
-        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=android",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=php",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=ui",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=%E5%89%8D%E7%AB%AF",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=hadoop",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=python",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=ruby",
+        "http://www.wealink.com/zhiwei/shanghai_t7_s/?kw=%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98",
+
     ]
 
     rules = (
@@ -75,4 +81,5 @@ class WealinkSpider(CrawlSpider):
                 item['job_desc'] = content_string.strip(' \t\n\r') 
 
         item['source'] = "wealink.com"
+        item['score'] = 0
         return item
