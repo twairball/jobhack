@@ -19,7 +19,7 @@ class OsChinaSpider(CrawlSpider):
 
     rules = (
         Rule(SgmlLinkExtractor(allow=('oschina.net/job/detail/\d+_\d+$', ), deny=('\.php', )), callback="parse_post_detail", follow=True),
-        Rule(SgmlLinkExtractor(allow=('oschina.net/job?.*addr_prv=%E4%B8%8A%E6%B5%B7.*&p=\d', ), deny=('\.php', )), callback="parse_index", follow=True),
+        Rule(SgmlLinkExtractor(allow=('oschina.net/job?.*addr_prv=%E4%B8%8A%E6%B5%B7.*&p=\d$', ), deny=('\.php', )), callback="parse_index", follow=True),
     )
     
     def parse_start_url(self, response):
@@ -50,13 +50,13 @@ class OsChinaSpider(CrawlSpider):
             label = li.xpath('strong/text()').extract()[0]
 
             if re.match("工作地点".decode('utf-8'),label):
-                item['location'] = '-'.join(li.xpath('a/text()').extract())
+                item['location'] = '-'.join(li.xpath('a/text()').extract()).strip(' \n\r\t')
 
             if re.match("月薪".decode('utf-8'),label):
-                item['salary'] = '-'.join(li.xpath('text()').extract())
+                item['salary'] = '-'.join(li.xpath('text()').extract()).strip(' \n\r\t')
 
             if re.match("发布日期".decode('utf-8'),label):
-                item['posted_date'] = ' '.join(li.xpath('text()').extract())
+                item['posted_date'] = ' '.join(li.xpath('text()').extract()).strip(' \n\r\t')
 
         #more detail
         for li in post.xpath('.//ul[contains(@class, "more_detail")]/li'):
