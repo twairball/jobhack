@@ -59,7 +59,7 @@ class WealinkSpider(CrawlSpider):
 
         # job detail
         td_job_detail = post.xpath('//td[contains(@class,"job_detail")]/descendant::text()')
-        item['job_desc'] = 'XOBBQ'.join(td_job_detail.extract()).replace('XOXOBBQ', '').strip
+        item['job_desc'] = 'XOBBQ'.join(td_job_detail.extract()).replace('XOXOBBQ', '').strip()
 
         # split into item['job_req']  ?
 

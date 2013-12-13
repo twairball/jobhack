@@ -80,7 +80,7 @@ class WubaSpider(CrawlSpider):
                 item['salary'] = salary_string.strip(' \t\n\r')
 
         contents = sel.xpath('//div[contains(@class, "posMsg")]//text()')
-        item['job_desc'] = 'XOXOBBQ'.join(contents.extract()).replace('XOXOBBQ', '').strip
+        item['job_desc'] = 'XOXOBBQ'.join(contents.extract()).replace('XOXOBBQ', '').strip(' \n\r\t')
         # item['job_req']...
 
         location = sel.xpath('//div[contains(@class,"compIntro")]//div[contains(@class,"contact")]//dl/dd/span[contains(@class,"area")]//text()')
