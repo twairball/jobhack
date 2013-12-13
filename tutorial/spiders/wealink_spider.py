@@ -73,12 +73,12 @@ class WealinkSpider(CrawlSpider):
         for content in contents:
             content_title = content.xpath('.//h3/text()').extract()[0]
             
-            if re.match("职责描述".decode('utf-8'), content_title):
-                content_string = ' '.join(content.xpath('text()').extract())
-                item['job_req'] = content_string.strip(' \t\n\r')
             if re.match("任职要求".decode('utf-8'), content_title):
                 content_string = ' '.join(content.xpath('text()').extract())
-                item['job_desc'] = content_string.strip(' \t\n\r') 
+                item['job_req'] = content_string.strip(' \t\n\r').strip
+            if re.match("职责描述".decode('utf-8'), content_title):
+                content_string = ' '.join(content.xpath('text()').extract())
+                item['job_desc'] = content_string.strip(' \t\n\r').strip
 
         item['source'] = "wealink.com"
         item['score'] = 0

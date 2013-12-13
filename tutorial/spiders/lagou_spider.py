@@ -50,7 +50,7 @@ class LagouSpider(CrawlSpider):
         item['title'] = title_string.strip(' \t\n\r')
 
         desc = post.xpath('.//dd[contains(@class, "job_bt")]/p/text()')
-        item['job_desc'] = '\n'.join(desc.extract())
+        item['job_desc'] = 'XOBBQ'.join(desc.extract()).replace('XOBBQ','').strip
 
         # company
         company_div = sel.xpath('//dl[contains(@class, "job_company")]')

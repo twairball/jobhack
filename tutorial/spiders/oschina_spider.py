@@ -38,32 +38,32 @@ class OsChinaSpider(CrawlSpider):
         item['title'] = title_string.strip(' \t\n\r')
 
         desc = post.xpath('.//*[contains(@class,"detail")]/descendant::text()')
-        item['job_desc'] = '\n'.join(desc.extract())
+        item['job_desc'] = 'XOBBQ'.join(desc.extract()).replace('XOBBQ','').strip
 
         # company
         company_div = post.xpath('//h3[text()[contains(.,"'+'公司'.decode('utf-8')+'")]]')
         company_name_string = ' '.join(company_div.xpath('a/text()').extract())
-        item['company'] = company_name_string.strip(' \t\n\r')
+        item['company'] = company_name_string.strip(' \t\n\r').strip
 
         #sidebar info section
         for li in post.xpath('.//ul[contains(@class,"info")]/li'):
             label = li.xpath('strong/text()').extract()[0]
 
             if re.match("工作地点".decode('utf-8'),label):
-                item['location'] = '-'.join(li.xpath('a/text()').extract()).strip(' \n\r\t')
+                item['location'] = '-'.join(li.xpath('a/text()').extract()).strip(' \n\r\t').strip
 
             if re.match("月薪".decode('utf-8'),label):
-                item['salary'] = '-'.join(li.xpath('text()').extract()).strip(' \n\r\t')
+                item['salary'] = '-'.join(li.xpath('text()').extract()).strip(' \n\r\t').strip
 
             if re.match("发布日期".decode('utf-8'),label):
-                item['posted_date'] = ' '.join(li.xpath('text()').extract()).strip(' \n\r\t')
+                item['posted_date'] = ' '.join(li.xpath('text()').extract()).strip(' \n\r\t').strip
 
         #more detail
         for li in post.xpath('.//ul[contains(@class, "more_detail")]/li'):
             label = li.xpath('strong/text()').extract()[0]
 
             if re.match("学历要求".decode('utf-8'),label):
-                item['edu_req'] = ' '.join(li.xpath('text()').extract()).strip(' \r\n\t')
+                item['edu_req'] = ' '.join(li.xpath('text()').extract()).strip(' \r\n\t').strip
 
         item['source'] = "oschina.net"
         item['url'] = response.url
