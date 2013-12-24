@@ -56,7 +56,7 @@ class OsChinaSpider(CrawlSpider):
                 item['salary'] = '-'.join(li.xpath('text()').extract()).strip(' \n\r\t').strip()
 
             if re.match("发布日期".decode('utf-8'),label):
-                item['posted_date'] = i.xpath('text()').extract().strip(' \n\r\t').strip()
+                item['posted_date'] = li.xpath('text()').extract()[0].strip()
 
         #more detail
         for li in post.xpath('.//ul[contains(@class, "more_detail")]/li'):
