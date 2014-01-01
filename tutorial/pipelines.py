@@ -104,7 +104,8 @@ class MongoDBPipeline(object):
         self.db = connection[mongodb_db]
         self.mongodb_collection = mongodb_collection
         self.collection = self.db[mongodb_collection]
-        self.uniq_key = mongodb_uniq_key
+        # self.uniq_key = mongodb_uniq_key
+        self.uniq_key = ""
         self.itemid = mongodb_item_id_field
         self.safe = mongodb_safe
 
